@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi there 👋, I'm Kateryna Havryna!
 
-<!--
-**HavrynaKateryna/HavrynaKateryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Frontend Developer passionate about building interactive and responsive web applications using modern technologies like React and TypeScript.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- ⚛️ React  
+- 🟦 TypeScript  
+- 🧩 Axios  
+- 📦 TanStack Query  
+- 🎨 CSS Modules  
+- ⚡ Vite  
